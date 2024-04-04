@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "������ ������ �� ��� ������",
+            "slug": "chajnij-stolik-ta-tri-stilci",
+            "description": "�������� � ����� ������� �� ������������� ������ ��� �������",
+            "image": "goods_images/set_of_tea_table_and_three_chairs_kXUYPpN.jpg",
+            "price": "150.00",
+            "discount": "10.00",
+            "quantity": 3,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "������ ������ � ��� ������",
+            "slug": "chajnyj-stolik-i-dva-stilci",
+            "description": "���� � ����� �� ���� ������� � �������������� ����.",
+            "image": "goods_images/set_of_tea_table_and_two_chairs_sNRGhaz.jpg",
+            "price": "93.00",
+            "discount": "15.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "���������� ����",
+            "slug": "dvospalne-lizhko",
+            "description": "˳��� ���������� � ������������� � ������ ���� �����������.",
+            "image": "goods_images/double_bed_33iwSrU.jpg",
+            "price": "670.00",
+            "discount": "20.00",
+            "quantity": 3,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "�������� ��� � ���������",
+            "slug": "kuhonnij-stil-z-rakovinoyu",
+            "description": "�������� ��� ��� ���� � ���������� ��������� �� ��������.",
+            "image": "goods_images/kitchen_table_2_aPyxPFM.jpg",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "�������� ��� �� ��������",
+            "slug": "kuhonnij-stil-iz-vbudovoyu",
+            "description": "�������� ��� �� ���������� ������ �� ���������. ������ ������ �� ������ ������.",
+            "image": "goods_images/kitchen_table_58x4cXV.jpg",
+            "price": "430.00",
+            "discount": "0.00",
+            "quantity": 7,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "������� ����� ��� �������",
+            "slug": "kutovij-divan-dlya-vitalni",
+            "description": "������� �����, ������������ � ���������� ����, ��� ������� �� ������� ������ ���� ��!",
+            "image": "goods_images/corner_sofa_mZ98Bfv.jpg",
+            "price": "610.00",
+            "discount": "15.00",
+            "quantity": 8,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "���������� ������",
+            "slug": "prilizhkovij-stolik",
+            "description": "���������� ������ �� ����� ��������� ������� (����� �� ������� � ��������).",
+            "image": "goods_images/bedside_table_UqFQp8S.jpg",
+            "price": "55.00",
+            "discount": "10.00",
+            "quantity": 11,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "����� ���������",
+            "slug": "divan-zvichajnij",
+            "description": "�����, �� �� ���� ��������, ������ ��������� ��� �����.",
+            "image": "goods_images/sofa_gTIEOtX.jpg",
+            "price": "190.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "������ �������",
+            "slug": "stilec-ofisnij",
+            "description": "���� ������, ��� �� ���� �� �������, ��� �� ������, �� ��� ������...",
+            "image": "goods_images/office_chair_AFrqQz2.jpg",
+            "price": "30.00",
+            "discount": "0.00",
+            "quantity": 22,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "�������",
+            "slug": "roslina",
+            "description": "������� ��� �������� ������ �����'��� ������ ������ �� ��������������.",
+            "image": "goods_images/plants_wX7chsE.jpg",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 4,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "����� ����������",
+            "slug": "kvitka-stilizovana",
+            "description": "������������ ����� (������� ������) ��� �������� �����'���.",
+            "image": "goods_images/flower_jGd1Hbs.jpg",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "���������� ������ 2",
+            "slug": "prilizhkovij-stolik-2",
+            "description": "������ ������ ������ �� ������, ��� �������� ��� ��������� ����� � �����.",
+            "image": "goods_images/strange_table_WW3YPWo.jpg",
+            "price": "25.00",
+            "discount": "30.00",
+            "quantity": 2,
+            "category": 5
+        }
+    }
+]
